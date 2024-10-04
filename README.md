@@ -1,0 +1,4 @@
+Hello, this is a "python" program used for encrypting text (unable to encrypt Chinese)
+In the program, the underlying logic of using Caesar cipher is used to encrypt files, with each letter having a separate key.
+Create a txt file in the "read" folder, choose a name you like, fill in the file name in the leftmost input box of the program, click encrypt, view the encrypted file in the "close" folder, and view the key file in the "key" folder.
+There are default values in the decryption section of the program, usually using the default file name, and allowing the name of the encrypted file to be changed. The changed file name needs to be filled in the second input box in the decryption section.
